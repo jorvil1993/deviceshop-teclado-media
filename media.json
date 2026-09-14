@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "media": {
+    "fi3": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/img_fi3.jpg",
+      "sha256": "c218e1a811d5b37f69951a8dccac9f98e633f3f1324508cef68fe2b0f427ed5c",
+      "bytes": 205274,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    }
+  }
+}
