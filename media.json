@@ -7,6 +7,13 @@
       "bytes": 205274,
       "extension": "jpg",
       "mime": "image/jpeg"
+    },
+    "kb1v": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/kb1v.mp4",
+      "sha256": "5397c786fcbcccf7474e20fd1ed8d2d34726226a1bdc1ba431df74a2f07f616f",
+      "bytes": 6872353,
+      "extension": "mp4",
+      "mime": "video/mp4"
     }
   }
 }
