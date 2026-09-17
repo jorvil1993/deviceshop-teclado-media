@@ -14,6 +14,14 @@
       "bytes": 6872353,
       "extension": "mp4",
       "mime": "video/mp4"
+    },
+    "vxt1": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/vxt1.gif",
+      "sha256": "81d053146377afac12755775d43cdc1142e216eea9c4f4a0888656414d7d2d23",
+      "bytes": 5235615,
+      "extension": "gif",
+      "mime": "image/gif"
     }
   }
 }
+
