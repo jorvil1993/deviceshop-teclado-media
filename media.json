@@ -23,11 +23,11 @@
       "mime": "image/gif"
     },
     "va1": {
-      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/va1.mp4",
-      "sha256": "4e93499e1f95cf4f81d91880264420dc62d28ca5ab8ece90823ae9de212ad4df",
-      "bytes": 16599963,
-      "extension": "mp4",
-      "mime": "video/mp4"
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/va1.gif",
+      "sha256": "5a7a475902173248b9f8f4c76df32472b8ca9a9c858f80f8e36c9ef64fffaa9a",
+      "bytes": 22500458,
+      "extension": "gif",
+      "mime": "image/gif"
     },
     "fa1": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa1.jpg",
