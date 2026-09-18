@@ -52,22 +52,22 @@
     },
     "fa4": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa4.jpg",
-      "sha256": "8b41b39bcc771988664e642d2c454e84a79bfc65f91daa1c0093de6c6f831ebd",
-      "bytes": 370638,
+      "sha256": "c8ce2f3178eb48055f2abf2dc3277676ce372be977a8bf62c93f45293c2e0646",
+      "bytes": 369058,
       "extension": "jpg",
       "mime": "image/jpeg"
     },
     "fa5": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa5.jpg",
-      "sha256": "bdb541896196f088d4f39d49bb44d954fbdbcd710c6092e2ec6d89ef4f00e396",
-      "bytes": 334871,
+      "sha256": "1afafa73e7d89a50cce875b2fae41fb92ffb4668f436f0ece55d9757cffb5e23",
+      "bytes": 332266,
       "extension": "jpg",
       "mime": "image/jpeg"
     },
     "fa6": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa6.jpg",
-      "sha256": "5f368f4513e97f0814e33bc38126f7d36c7bd308521dde801fbd58d693208b4a",
-      "bytes": 419598,
+      "sha256": "c957ac4fb59cefa313e9a4b5f981bdb24667660b8f0824945d9afc5a7b8bdef7",
+      "bytes": 419540,
       "extension": "jpg",
       "mime": "image/jpeg"
     },
@@ -101,22 +101,22 @@
     },
     "ia4": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa4.jpg",
-      "sha256": "8b41b39bcc771988664e642d2c454e84a79bfc65f91daa1c0093de6c6f831ebd",
-      "bytes": 370638,
+      "sha256": "c8ce2f3178eb48055f2abf2dc3277676ce372be977a8bf62c93f45293c2e0646",
+      "bytes": 369058,
       "extension": "jpg",
       "mime": "image/jpeg"
     },
     "ia5": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa5.jpg",
-      "sha256": "bdb541896196f088d4f39d49bb44d954fbdbcd710c6092e2ec6d89ef4f00e396",
-      "bytes": 334871,
+      "sha256": "1afafa73e7d89a50cce875b2fae41fb92ffb4668f436f0ece55d9757cffb5e23",
+      "bytes": 332266,
       "extension": "jpg",
       "mime": "image/jpeg"
     },
     "ia6": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa6.jpg",
-      "sha256": "5f368f4513e97f0814e33bc38126f7d36c7bd308521dde801fbd58d693208b4a",
-      "bytes": 419598,
+      "sha256": "c957ac4fb59cefa313e9a4b5f981bdb24667660b8f0824945d9afc5a7b8bdef7",
+      "bytes": 419540,
       "extension": "jpg",
       "mime": "image/jpeg"
     }
