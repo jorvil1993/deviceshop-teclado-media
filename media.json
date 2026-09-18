@@ -28,6 +28,97 @@
       "bytes": 16599963,
       "extension": "mp4",
       "mime": "video/mp4"
+    },
+    "fa1": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa1.jpg",
+      "sha256": "f5097c07377a1ae0826691a2be274005c6065a92e0d7914720b3fa9443c3e80a",
+      "bytes": 520462,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "fa2": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa2.jpg",
+      "sha256": "7028d3cec5d9233ba2063653097ff77c39559c08da490e04e6f064187cbfef85",
+      "bytes": 540512,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "fa3": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa3.jpg",
+      "sha256": "91a90966a5fa70b526d76ef518b1d0999fcc74be62cd8a856babd18506a03c8d",
+      "bytes": 526219,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "fa4": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa4.jpg",
+      "sha256": "8b41b39bcc771988664e642d2c454e84a79bfc65f91daa1c0093de6c6f831ebd",
+      "bytes": 370638,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "fa5": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa5.jpg",
+      "sha256": "bdb541896196f088d4f39d49bb44d954fbdbcd710c6092e2ec6d89ef4f00e396",
+      "bytes": 334871,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "fa6": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa6.jpg",
+      "sha256": "5f368f4513e97f0814e33bc38126f7d36c7bd308521dde801fbd58d693208b4a",
+      "bytes": 419598,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "va2": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/va2.gif",
+      "sha256": "cf7293442c5d65aae3c5eb99b91a6d8fb76b40f225a415cfd72e2739f3654edd",
+      "bytes": 12222269,
+      "extension": "gif",
+      "mime": "image/gif"
+    },
+    "ia1": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa1.jpg",
+      "sha256": "f5097c07377a1ae0826691a2be274005c6065a92e0d7914720b3fa9443c3e80a",
+      "bytes": 520462,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "ia2": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa2.jpg",
+      "sha256": "7028d3cec5d9233ba2063653097ff77c39559c08da490e04e6f064187cbfef85",
+      "bytes": 540512,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "ia3": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa3.jpg",
+      "sha256": "91a90966a5fa70b526d76ef518b1d0999fcc74be62cd8a856babd18506a03c8d",
+      "bytes": 526219,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "ia4": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa4.jpg",
+      "sha256": "8b41b39bcc771988664e642d2c454e84a79bfc65f91daa1c0093de6c6f831ebd",
+      "bytes": 370638,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "ia5": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa5.jpg",
+      "sha256": "bdb541896196f088d4f39d49bb44d954fbdbcd710c6092e2ec6d89ef4f00e396",
+      "bytes": 334871,
+      "extension": "jpg",
+      "mime": "image/jpeg"
+    },
+    "ia6": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/fa6.jpg",
+      "sha256": "5f368f4513e97f0814e33bc38126f7d36c7bd308521dde801fbd58d693208b4a",
+      "bytes": 419598,
+      "extension": "jpg",
+      "mime": "image/jpeg"
     }
   }
 }
