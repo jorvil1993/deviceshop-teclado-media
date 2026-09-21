@@ -22,6 +22,27 @@
       "extension": "gif",
       "mime": "image/gif"
     },
+    "vkl2": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v2/vkl2.gif",
+      "sha256": "ac9c0c99ef3f7cf38710b0f92019c5952be3459255ea8919525b231bfcef4c11",
+      "bytes": 9771768,
+      "extension": "gif",
+      "mime": "image/gif"
+    },
+    "vkl3": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v2/vkl3.gif",
+      "sha256": "8450f8a131d407479eded26cdd98be248ae5eebed573f5d9e173837ab1d8de89",
+      "bytes": 4361123,
+      "extension": "gif",
+      "mime": "image/gif"
+    },
+    "vkl4": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v2/vkl4.gif",
+      "sha256": "818bd818d1a5960ad477fa7d99da7b615c7072366d3d95df667948363bfe6a94",
+      "bytes": 11024496,
+      "extension": "gif",
+      "mime": "image/gif"
+    },
     "va1": {
       "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v1/va1.gif",
       "sha256": "5a7a475902173248b9f8f4c76df32472b8ca9a9c858f80f8e36c9ef64fffaa9a",
