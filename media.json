@@ -182,6 +182,13 @@
       "bytes": 13751977,
       "extension": "gif",
       "mime": "image/gif"
+    },
+    "qr4": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v7/qr4.jpg",
+      "sha256": "5500b7a38918a7a2c7bf16dc3febeea5248441b9bb5d5dddcff48a12d6ef39d5",
+      "bytes": 222685,
+      "extension": "jpg",
+      "mime": "image/jpeg"
     }
   }
 }
