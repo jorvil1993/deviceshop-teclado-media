@@ -189,6 +189,13 @@
       "bytes": 222685,
       "extension": "jpg",
       "mime": "image/jpeg"
+    },
+    "vkcbw1": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v8/vkcbw1.gif",
+      "sha256": "73616a7fea2edc33b17dac583fc3b6e43e38857de02d5eb2d2a2f09dc9c75089",
+      "bytes": 4595499,
+      "extension": "gif",
+      "mime": "image/gif"
     }
   }
 }
