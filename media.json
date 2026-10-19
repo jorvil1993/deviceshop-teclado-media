@@ -196,6 +196,20 @@
       "bytes": 4595499,
       "extension": "gif",
       "mime": "image/gif"
+    },
+    "vxtp1": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v9/vxtp1.gif",
+      "sha256": "8986620da81c44b9c40c9dc30b5008ed67d13785ecc4622e70e9539322455eb9",
+      "bytes": 6495922,
+      "extension": "gif",
+      "mime": "image/gif"
+    },
+    "vxtp2": {
+      "url": "https://github.com/jorvil1993/deviceshop-teclado-media/releases/download/media-v9/vxtp2.gif",
+      "sha256": "1586cdbf32af82415821b1a6ed8181fa2df6709eb614ba1ad63b6a2ed4873e07",
+      "bytes": 5638608,
+      "extension": "gif",
+      "mime": "image/gif"
     }
   }
 }
